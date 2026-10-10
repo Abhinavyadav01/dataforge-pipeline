@@ -1,0 +1,21 @@
+product_id,product_name,category,total_units_ordered,approved_return_records,return_rate_pct,return_group
+P029,Furniture Item 29,Home And Kitchen,28,2,7.14,Top 10 - Highest Returns
+P042,Staples Item 42,Grocery,31,2,6.45,Top 10 - Highest Returns
+P013,Appliances Item 13,Home And Kitchen,22,1,4.55,Top 10 - Highest Returns
+P034,Fitness Item 34,Sports,25,1,4.0,Top 10 - Highest Returns
+P009,Furniture Item 9,Home & Kitchen,26,1,3.85,Top 10 - Highest Returns
+P030,Furniture Item 30,Home And Kitchen,26,1,3.85,Top 10 - Highest Returns
+P052,Womenswear Item 52,Fashion,27,1,3.7,Top 10 - Highest Returns
+P035,Cookware Item 35,Home & Kitchen,28,1,3.57,Top 10 - Highest Returns
+P058,Snacks Item 58,Grocery,28,1,3.57,Top 10 - Highest Returns
+P057,Team Sports Item 57,Sports,29,1,3.45,Top 10 - Highest Returns
+P002,Furniture Item 2,Home & Kitchen,33,0,0.0,Bottom 10 - Lowest Returns
+P003,Staples Item 3,Grocery,28,0,0.0,Bottom 10 - Lowest Returns
+P004,Appliances Item 4,Home And Kitchen,30,0,0.0,Bottom 10 - Lowest Returns
+P008,,None,21,0,0.0,Bottom 10 - Lowest Returns
+P010,Accessories Item 10,Electronics,21,0,0.0,Bottom 10 - Lowest Returns
+P012,Menswear Item 12,Fashion,40,0,0.0,Bottom 10 - Lowest Returns
+P014,Audio Item 14,Electronics,21,0,0.0,Bottom 10 - Lowest Returns
+P015,Team Sports Item 15,Sports,27,0,0.0,Bottom 10 - Lowest Returns
+P016,Footwear Item 16,Fashion,32,0,0.0,Bottom 10 - Lowest Returns
+P019,Beverages Item 19,Grocery,20,0,0.0,Bottom 10 - Lowest Returns
